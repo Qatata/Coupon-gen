@@ -3,6 +3,7 @@ This script generates possible coupon codes based on a list of words and optiona
 
 1. Prepare `words.txt`
 2. Run the script:
-   ```
-   python3 generate.py
-   ```
+```
+python3 generate.py
+```
+3. Use the final `fuzz.txt` to fuzz the target
