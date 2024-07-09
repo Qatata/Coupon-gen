@@ -1,4 +1,4 @@
-# Coupon Code Generator for Fuzzing
+## Coupon Generator for Fuzzing
 This script generates possible coupon codes based on a list of words and optional custom input. It combines the words with years and creates variations.
 
 1. Prepare `words.txt`
